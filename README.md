@@ -11,7 +11,7 @@ Garantimos a qualidade e pré-processamos as imagens para otimizar o processo de
 
 2-Extração de Texto:
 
-Empregamos ferramentas de OCR do <b>Microsoft Vision Studio -> Extract text from images</b>, para alcançar a melhor precisão e legibilidade do texto.
+Empregamos a ferramenta de OCR do <b>Microsoft Vision Studio -> Extract text from images</b>, para alcançar a melhor precisão e legibilidade do texto.
 
 3-Armazenamento de Resultados:
 
