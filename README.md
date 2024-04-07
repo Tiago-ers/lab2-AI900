@@ -21,6 +21,6 @@ O texto extraído fica disponível para análise, edição e posterior utilizaç
 ## Insights e Aprendizados:
 
 * A qualidade da imagem impacta diretamente na precisão do OCR. Iluminação adequada, alto contraste e resolução nítida são cruciais.
-2. A escolha da ferramenta de OCR ideal depende do tipo de imagem, volume de dados e objetivos específicos do projeto.
-3. O pré-processamento das imagens, como remoção de ruído e binarização, pode aprimorar significativamente os resultados do OCR.
-4. O aprendizado de máquina oferece técnicas avançadas para aprimorar a precisão do OCR, como treinamento de modelos personalizados com base em conjuntos de dados específicos.
+* A escolha da ferramenta de OCR ideal depende do tipo de imagem, volume de dados e objetivos específicos do projeto.
+* O pré-processamento das imagens, como remoção de ruído e binarização, pode aprimorar significativamente os resultados do OCR.
+* O aprendizado de máquina oferece técnicas avançadas para aprimorar a precisão do OCR, como treinamento de modelos personalizados com base em conjuntos de dados específicos.
