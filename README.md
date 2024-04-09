@@ -6,17 +6,17 @@
 
 1-Preparação de Dados:
 
-Coletamos imagens diversas com texto incorporado, organizando-as na pasta "inputs".
-Garantimos a qualidade e pré-processamos as imagens para otimizar o processo de OCR.
+* Coletamos imagens diversas com texto incorporado, organizando-as na pasta "inputs".
+* Garantimos a qualidade e pré-processamos as imagens para otimizar o processo de OCR.
 
 2-Extração de Texto:
 
-Empregamos a ferramenta de OCR do <b>Microsoft Vision Studio -> Extract text from images</b>, para alcançar a melhor precisão e legibilidade do texto.
+* Empregamos a ferramenta de OCR do <b>Microsoft Vision Studio -> Extract text from images</b>, para alcançar a melhor precisão e legibilidade do texto.
 
 3-Armazenamento de Resultados:
 
-Salvamos os resultados do OCR na pasta "output", nomeando os arquivos de acordo com as imagens correspondentes.
-O texto extraído fica disponível para análise, edição e posterior utilização.
+* Salvamos os resultados do OCR na pasta "output", nomeando os arquivos de acordo com as imagens correspondentes.
+* O texto extraído fica disponível para análise, edição e posterior utilização.
 
 ## Insights e Aprendizados:
 
