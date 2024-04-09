@@ -1,6 +1,6 @@
 # lab2-AI900
 
-<p>Este laboratório explora o reconhecimento de texto em imagens (OCR), utilizando técnicas de computação visual através do Microsoft Vision Studio, para extrair informações valiosas de documentos, placas, anúncios e muito mais. Através do processamento de imagens e aprendizado de máquina, transformamos imagens em texto, tornando-as acessíveis e pesquisáveis.</p>p
+<p>Este laboratório explora o reconhecimento de texto em imagens (OCR), utilizando técnicas de computação visual através do Microsoft Vision Studio, para extrair informações valiosas de documentos, placas, anúncios e muito mais. Através do processamento de imagens e aprendizado de máquina, transformamos imagens em texto, tornando-as acessíveis e pesquisáveis.</p>
 
 ## Metodologia:
 
